@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm Ahmad Raza, a passionate web developer and fre
 ## Skills
 
 - **Programming Languages:** Python, JavaScript
-- **Frameworks & Libraries:** Flask, Express, React
-- **Tools & Technologies:** Web Scraping (Beautiful Soup, Selenium), API Development, Git
+- **Frameworks & Libraries:** Django, Flask, React
+- **Tools & Technologies:** Web Scraping (Beautiful Soup, Selenium), API Development (DjangoRestFramework), Git
 <!--
 ## Projects
 
@@ -36,13 +36,13 @@ A user-friendly React front-end for [provide details]. The project focuses on pr
 
 - [Project Repository](link_to_repository)
 - [Live Demo (if applicable)](link_to_live_demo_if_applicable)
-
+-->
 ## Connect with Me
 
 - 🐦 [Twitter](https://twitter.com/moonnight_90)
 - 💼 [LinkedIn](https://www.linkedin.com/in/moonnight90/)
 - 📷 [Instagram](https://www.instagram.com/kahloonsab190/)
-
+<!--
 ## Support
 
 If you find my work useful or interesting, consider supporting me:
