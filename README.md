@@ -1,5 +1,5 @@
 # Hello, World! 👋
-
+[![wakatime](https://wakatime.com/badge/user/1f0d2c79-2f6b-49aa-91f4-fee0d7da4d0f.svg)](https://wakatime.com/@1f0d2c79-2f6b-49aa-91f4-fee0d7da4d0f)
 Welcome to my GitHub profile! I'm Ahmad Raza, a passionate web developer and freelancer with a focus on web scraping, API development, and React front-end. Here, you'll find a collection of my projects and contributions. Feel free to explore, contribute, or reach out if you have any questions or collaboration ideas.
 
 ## About Me
