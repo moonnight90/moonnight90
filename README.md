@@ -1,5 +1,5 @@
 # Hello, World! 👋
-[![wakatime](https://wakatime.com/badge/user/1f0d2c79-2f6b-49aa-91f4-fee0d7da4d0f.svg)](https://wakatime.com/@1f0d2c79-2f6b-49aa-91f4-fee0d7da4d0f)
+
 Welcome to my GitHub profile! I'm Ahmad Raza, a passionate web developer and freelancer with a focus on web scraping, API development, and React front-end. Here, you'll find a collection of my projects and contributions. Feel free to explore, contribute, or reach out if you have any questions or collaboration ideas.
 
 ## About Me
@@ -13,6 +13,11 @@ Welcome to my GitHub profile! I'm Ahmad Raza, a passionate web developer and fre
 - **Programming Languages:** Python, JavaScript
 - **Frameworks & Libraries:** Django, Flask, React
 - **Tools & Technologies:** Web Scraping (Beautiful Soup, Selenium), API Development (DjangoRestFramework), Git
+
+## WakaTime Stats
+
+[![wakatime](https://wakatime.com/badge/user/1f0d2c79-2f6b-49aa-91f4-fee0d7da4d0f.svg)](https://wakatime.com/@1f0d2c79-2f6b-49aa-91f4-fee0d7da4d0f)
+
 <!--
 ## Projects
 
@@ -37,11 +42,13 @@ A user-friendly React front-end for [provide details]. The project focuses on pr
 - [Project Repository](link_to_repository)
 - [Live Demo (if applicable)](link_to_live_demo_if_applicable)
 -->
+
 ## Connect with Me
 
 - 🐦 [Twitter](https://twitter.com/moonnight_90)
 - 💼 [LinkedIn](https://www.linkedin.com/in/moonnight90/)
 - 📷 [Instagram](https://www.instagram.com/kahloonsab190/)
+
 <!--
 ## Support
 
@@ -49,6 +56,7 @@ If you find my work useful or interesting, consider supporting me:
 
 - ☕ [Buy me a coffee](link_to_coffee)
 -->
+
 ## License
 
 This repository and its contents are open-source under the [License Name] license. See the [LICENSE](link_to_license) file for more details.
